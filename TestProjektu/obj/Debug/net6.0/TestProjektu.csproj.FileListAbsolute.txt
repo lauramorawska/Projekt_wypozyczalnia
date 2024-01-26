@@ -1,0 +1,1134 @@
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\testhost.exe
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\testhost.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\TestProjektu.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\TestProjektu.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\refint\TestProjektu.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\TestProjektu.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\TestProjektu\obj\Debug\net6.0\ref\TestProjektu.dll

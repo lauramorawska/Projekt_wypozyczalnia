@@ -1,0 +1,57 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        mc:Ignorable="d"
+        Title="Firma wypożyczalnia samochodowa" Height="450" Width="800">
+    <Grid Background="#FFD7EAE8" Margin="-17,0,-18,-62">
+        <Grid.Style>
+            <Style/>
+        </Grid.Style>
+        <Label x:Name="LblNazwaWypozyczalni" Content="Nazwa wypożyczalni" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" HorizontalAlignment="Left" Height="37" Margin="63,47,0,0" VerticalAlignment="Top" Width="126" FontWeight="Bold" Background="#FFEAEAF9"/>
+        <TextBox x:Name="TxtNazwaWypozyczalni" HorizontalAlignment="Left" Margin="248,57,0,0" VerticalAlignment="Top" Width="269"/>
+        <Button x:Name="BtnPracownicy" Content="Pracownicy" HorizontalAlignment="Left" Margin="63,115,0,0" VerticalAlignment="Top" Width="113" Click="BtnPracownicy_Click" FontWeight="Bold" Background="#FFC0E5E2">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="BtnKlienci" Content="Klienci" HorizontalAlignment="Left" Margin="63,150,0,0" VerticalAlignment="Top" Width="113" Click="BtnKlienci_Click" FontWeight="Bold" Background="#FFD5E0A7">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="BtnSamochody" Content="Samochody" HorizontalAlignment="Left" Margin="63,185,0,0" VerticalAlignment="Top" Width="113" Click="BtnSamochody_Click" FontWeight="Bold" Background="#FFEBE9D7">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Button x:Name="BtnWypozyczenia" Content="Wypożyczenia" HorizontalAlignment="Left" Margin="63,220,0,0" VerticalAlignment="Top" Width="113" Click="BtnWypozyczenia_Click" FontWeight="Bold" Background="#FFF6DFF8">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Menu HorizontalAlignment="Stretch" Margin="10 0 0 0" Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Plik" FontSize="16">
+                <MenuItem Header="Otwórz" Click="MenuOtworz_Click"/>
+                <MenuItem Header="Zapisz" Click="MenuZapisz_Click"/>
+                <MenuItem Header="Zakończ" Click="MenuZakoncz_Click"/>
+            </MenuItem>
+            <!--MenuItem Header="Edit"></MenuItem-->
+        </Menu>
+        <TextBlock x:Name="stanKasyTextBlock" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="248,268,0,0" Height="27" Width="182">
+            <TextBlock.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </TextBlock.Background>
+        </TextBlock>
+        <Button Content="Pokaż Stan Kasy" Click="PokażStanKasy_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="63,269,0,0" Height="26" Width="113" FontWeight="Bold" Background="#FFF6E7F3">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+
+        
+    </Grid>
+</Window>

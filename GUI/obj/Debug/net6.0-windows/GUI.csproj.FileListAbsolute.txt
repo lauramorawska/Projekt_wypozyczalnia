@@ -1,0 +1,1139 @@
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWindow.g.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.deps.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.exe
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\ref\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.exe
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\AnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\WpfAnimatedGif.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\bin\Debug\net6.0-windows\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KwotadoZaplatyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI_MarkupCompile.lref
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajKlientaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajPracownikaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodCabrioletWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodKlasycznyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodSportowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajSamochodWieloosobowyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\DodajWypozyczenieWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\KlienciWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\PracownicyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\SamochodyWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\WypozyczeniaWindow.baml
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.g.resources
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\refint\GUI.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\GUI\obj\Debug\net6.0-windows\ref\GUI.dll

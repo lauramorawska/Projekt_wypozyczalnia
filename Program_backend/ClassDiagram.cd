@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt.BlednyPeselException">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlednyPeselException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.BlednaDataZwrotuException">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlednaDataZwrotuException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.BlednyNumerTelefonuException">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlednyNumerTelefonuException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.BledyNrDowoduException">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BledyNrDowoduException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Klient">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAABAAAAKAAAASsAIAAAAAAAAAAAAAAIAAAAACAABA=</HashCode>
+      <FileName>Klient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.NiepoprawnaLiczbaDniException">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NiepoprawnaLiczbaDniException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Pracownik">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQAAIAkIACAISEgAEAAAABAAAAAAAAAAAAAAiAABA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.Samochod">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAIFAACABACAAAEAAAABAgACAAAARgAAAkQAggICBA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.SamochodCabriolet">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>SamochodCabriolet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.SamochodKlasyczny">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SamochodKlasyczny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.SamochodSportowy">
+    <Position X="9.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAAAAAAAAAAAAIAAAACAAAAgAAAA=</HashCode>
+      <FileName>SamochodSportowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.SamochodWieloosobowy">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SamochodWieloosobowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt.Wypozyczalnia">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAABAwIAgAIRAgMIAQACIAEqkjIiAAAUAAgZEAIJAg=</HashCode>
+      <FileName>Wypozyczalnia.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Projekt.Wypozyczenie">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FGAoBAAAAAIAAAgMAgAICAIAACAAAAAoAAAEADQADBA=</HashCode>
+      <FileName>Wypozyczenie.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Projekt.IWypozyczanie">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IWypozyczanie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Projekt.EnumRola">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAQAAAAAAAAAAAAIAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt.EnumStan">
+    <Position X="5.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt.EnumDach" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SamochodCabriolet.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Projekt.EnumMiejsca">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAEAAAAAAAAA=</HashCode>
+      <FileName>SamochodWieloosobowy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

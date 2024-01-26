@@ -1,0 +1,32 @@
+﻿<Window x:Class="GUI.KlienciWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="Klienci" Height="450" Width="800">
+
+    <Grid Background="#FFC0E5E2">
+        <Label Content="Klienci" HorizontalAlignment="Left" Height="36" Margin="10,30,0,0" VerticalAlignment="Top" Width="704" Background="{DynamicResource {x:Static SystemColors.GrayTextBrushKey}}" Foreground="White"/>
+        <Button x:Name="BtnZmien" Content="Zmień" HorizontalAlignment="Left" Height="37" Margin="809,90,0,0" VerticalAlignment="Top" Width="121"/>
+        <ListBox x:Name="LstKlienci" HorizontalAlignment="Left" Height="315" Margin="159,90,0,0" VerticalAlignment="Top" Width="593" d:ItemsSource="{d:SampleData ItemCount=5}" Background="#FFEBF1EC" SelectionChanged="LstKlienci_SelectionChanged"/>
+        <Button x:Name="BtnDodaj" Content="Dodaj" HorizontalAlignment="Left" Height="33" Margin="48,90,0,0" VerticalAlignment="Top" Width="105" Click="BtnDodaj_Click" FontWeight="Bold"/>
+        <Button x:Name="BtnUsun" Content="Usuń" HorizontalAlignment="Left" Height="33" Margin="48,130,0,0" VerticalAlignment="Top" Width="105" Click="BtnUsun_Click" FontWeight="Bold"/>
+        <Button x:Name="BtnSortuj" Content="Sortuj" HorizontalAlignment="Left" Height="33" Margin="48,170,0,0" VerticalAlignment="Top" Width="105" Click="BtnSortuj_Click" FontWeight="Bold"/>
+        <Button x:Name="BtnCofnij" Content="Cofnij" HorizontalAlignment="Left" Height="33" Margin="48,372,0,0" VerticalAlignment="Top" Width="105" Click="BtnCofnij_Click" FontWeight="Bold"/>
+        <!--Button x:Name="BtnZmienDane" Content="Zmień" HorizontalAlignment="Left" Height="37" Margin="48,210,0,0" VerticalAlignment="Top" Width="105" Click="BtnZmienDane_Click"/-->
+
+        <Menu HorizontalAlignment="Stretch" Margin="10 0 0 0" Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Plik" FontSize="16">
+                <MenuItem Header="Otwórz" Click="MenuOtworz_Click"/>
+                <MenuItem Header="Zapisz" Click="MenuZapisz_Click"/>
+                <MenuItem Header="Zakończ" Click="MenuZakoncz_Click"/>
+            </MenuItem>
+            <!--MenuItem Header="Edit"></MenuItem-->
+        </Menu>
+
+
+
+    </Grid>
+</Window>

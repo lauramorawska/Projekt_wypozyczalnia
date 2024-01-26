@@ -1,0 +1,635 @@
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Programowanie Obiektowe\Projekt\Projekt\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\bin\Debug\net6.0\Projekt.exe
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\bin\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\filip\Projekt - C#\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt - C# roboczy\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Filip\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.exe
+C:\Users\Filip\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Filip\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Filip\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt - C# roboczy\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\bin\Debug\net6.0\Projekt.exe
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\bin\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Interfejsy_wbudowane\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\ZapisJSON\DodaneElementy\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Projekt.exe
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Diagram UML\Diagram UML\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Diagram_UML_obiekty2\Diagram UML\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Diagram UML\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\studia\Projekt_csharp\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (1)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_v1\Projekt_z_gui_v1\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui (2)\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_gui_z_testami\Projekt_z_gui_z_testami\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Filip\Desktop\Projekt_z_gui\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\dgroc\OneDrive\Desktop\Projekt_z_gui_z_bazami\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\Projekt_z_gui_z_bazami-poprawny (1)\Projekt_z_gui_z_bazami-poprawny\Projekt_z_gui_byFilip\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Kuba\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\Pulpit\Projekt_z_gui_byFilip\Program_backend\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.exe
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\AnimatedGif.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.CopyComplete
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\PrawieKoniec\PrawieKoniec\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\Projekt_z_dokumentacja\PrawieKoniec\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\dgroc\OneDrive\Desktop\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\zuzia\Downloads\NaGita\NaGita\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\dgroc\OneDrive\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\ref\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.deps.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.runtimeconfig.json
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\bin\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.Migrations.InitialCreate.resources
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.GenerateResource.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\refint\Projekt.dll
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.pdb
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+C:\Users\Laura Morawska\Desktop\NaGita-DebiloOdporny\Program_backend\obj\Debug\net6.0\ref\Projekt.dll

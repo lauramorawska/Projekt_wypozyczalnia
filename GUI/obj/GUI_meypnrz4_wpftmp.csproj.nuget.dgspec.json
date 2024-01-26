@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\GUI\\GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\Projekt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\Projekt.csproj",
+        "projectName": "Projekt",
+        "projectPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\Projekt.csproj",
+        "packagesPath": "C:\\Users\\Laura Morawska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laura Morawska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\GUI\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\Laura Morawska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laura Morawska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\Projekt.csproj": {
+                "projectPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Diagram UML\\Projekt.csproj"
+              },
+              "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\Projekt.csproj": {
+                "projectPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\Projekt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\Projekt.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\Projekt.csproj",
+        "projectName": "Projekt",
+        "projectPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\Projekt.csproj",
+        "packagesPath": "C:\\Users\\Laura Morawska\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Laura Morawska\\Desktop\\studia\\Projekt_csharp\\Projekt_z_gui\\Program_backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Laura Morawska\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
